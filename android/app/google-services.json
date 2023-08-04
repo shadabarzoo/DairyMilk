@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713020386955",
+    "project_id": "dairymilk-d4929",
+    "storage_bucket": "dairymilk-d4929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713020386955:android:b0d153c77159afce476e8e",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713020386955-m1i7nq1sjrpkvh41h5elomo1lj7bj9lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK3p2RaYDhGMsov11bQ6r2eua4QgQPEYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713020386955-acsoj923olk9b5tio7se3kob2trb2b70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
